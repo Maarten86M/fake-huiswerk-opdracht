@@ -6,10 +6,6 @@ p {
     color: blue;
 }
 
-a {
-    background-color: yellow;
-}
-
 h3 {
     color: greenyellow;
 }
@@ -19,4 +15,12 @@ h3 {
     width: 150px;
     height: 150px;
     background-color: orange;
+}
+
+#rondje {
+    margin: 50px;
+    width: 150px;
+    height: 150px;
+    background-color: lightblue;
+    border-radius: 50%;
 }
